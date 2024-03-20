@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 table = 0
 
 while table <= 10:
